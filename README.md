@@ -19,6 +19,6 @@ return [
 
  🤝 connect with me : 
 
-<a href="https://www.linkedin.com/in/mohammad-akbarpourjannat-47343b297/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
-<a href="https://t.me/mm009d"><img align="left" src="https://github.com/mohammad-Akbarpour/mohammad-Akbarpour/blob/main/images/telegram.svg" width="21px"/></a>
+<a href="https://www.linkedin.com/in/mohammad-akbarpourjannat-47343b297/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
+<a href="https://t.me/mm009d" target="_blank"><img align="left" src="https://github.com/mohammad-Akbarpour/mohammad-Akbarpour/blob/main/images/telegram.svg" width="21px"/></a>
 
