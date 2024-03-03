@@ -15,8 +15,6 @@ return [
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad-Akbarpour&show_icons=true&theme=dark&title_color=8A2BE2&icon_color=8A2BE2)](https://github.com/mohammad-Akbarpour/github-readme-stats)
-
  🤝 connect with me : 
 
 <a href="https://www.linkedin.com/in/mohammad-akbarpourjannat-47343b297/" target="_blank"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" width="21px"/></a>
