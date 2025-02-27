@@ -5,7 +5,7 @@ return [
   'name' => 'MOHAMMAD AKBARPOUR',
   'university' => 'TABRIZ COMPUTER ENGENEERING',
   'skills' => ['JAVA', 'PHP', 'LARAVEL'],
-  'currently-learning' => ['LARAVEL', 'DOCKER']
+  'currently-learning' => ['LARAVEL', 'DOCKER', 'TELEGRAM BOT]
 ];
 ```
 ![](https://img.shields.io/badge/code_-php-8A2BE2?logo=php)
