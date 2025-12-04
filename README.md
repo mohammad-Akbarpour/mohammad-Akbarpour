@@ -3,7 +3,7 @@
 ```php
 return [
   'name' => 'MOHAMMAD AKBARPOUR',
-  'university' => 'TABRIZ COMPUTER ENGENEERING',
+  'university' => 'KNTU COMPUTER ENGENEERING',
   'skills' => ['JAVA', 'PHP', 'LARAVEL'],
   'currently-learning' => ['LARAVEL', 'DOCKER', 'TELEGRAM BOT']
 ];
